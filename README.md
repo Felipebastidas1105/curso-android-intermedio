@@ -19,7 +19,7 @@ Este repositorio contiene el código fuente y los recursos utilizados en el Curs
 
 ## Cómo Ejecutar el Proyecto
 
-Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
+Para ejecutar este proyecto en tu computadora, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local:
 
